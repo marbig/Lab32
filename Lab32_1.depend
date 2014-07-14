@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1404983608 source:/home/student/Desktop/Lab32_1/main.cpp
+	<iostream>
+	<arpa/inet.h>
+	<sys/socket.h>
+	<stdlib.h>
+	<string.h>
+
